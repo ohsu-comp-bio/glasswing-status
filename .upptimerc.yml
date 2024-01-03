@@ -2,7 +2,7 @@ owner: ACED-IDP
 repo: status-monitor
 
 sites:
-  - name: Development
+  - name: CBDS
     url: https://idp.cbds.ohsu.edu
 
 status-website:
