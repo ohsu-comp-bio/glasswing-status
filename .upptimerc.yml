@@ -1,5 +1,6 @@
 owner: ohsu-comp-bio
 repo: status-monitor
+runner: "[self-hosted, linux, X64]"
 
 sites:
   - name: CBDS
@@ -27,5 +28,3 @@ assignees:
   - bwalsh
   - matthewpeterkort
   - lbeckman314
-
-runner: "[self-hosted, linux, X64]"
