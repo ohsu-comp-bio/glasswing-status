@@ -10,10 +10,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /status-monitor
+  baseUrl: /glasswing
   logoUrl: https://github.com/ohsu-comp-bio/status-monitor/assets/15309567/50848091-199b-44a7-af3a-dc5ad4a8314b
   name: ""
-  introTitle: "Status of CBDS Data Commons"
+  introTitle: "Status of the CBDS Integrated Data Platform"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
