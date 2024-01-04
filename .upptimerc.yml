@@ -1,5 +1,5 @@
 owner: ohsu-comp-bio
-repo: status-monitor
+repo: glasswing-status
 runner: "[self-hosted, linux, X64]"
 
 sites:
