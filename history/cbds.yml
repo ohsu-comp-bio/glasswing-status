@@ -1,7 +1,7 @@
 url: https://idp.cbds.ohsu.edu
-status: down
-code: 502
-responseTime: 12
-lastUpdated: 2024-04-09T01:13:37.243Z
+status: up
+code: 200
+responseTime: 21
+lastUpdated: 2024-04-09T02:33:06.343Z
 startTime: 2024-01-03T23:19:21.826Z
 generator: Upptime <https://github.com/upptime/upptime>
