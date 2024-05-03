@@ -4,7 +4,7 @@
     "url": "https://idp.cbds.ohsu.edu",
     "icon": "https://icons.duckduckgo.com/ip3/idp.cbds.ohsu.edu.ico",
     "slug": "cbds",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.47%",
@@ -16,6 +16,7 @@
     "timeMonth": 102,
     "timeYear": 37,
     "dailyMinutesDown": {
+      "2024-05-03": 0,
       "2024-04-30": 8,
       "2024-04-29": 46,
       "2024-04-09": 80,
